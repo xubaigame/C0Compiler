@@ -1,0 +1,17 @@
+void fun()
+{
+	int a,b,c;
+	a = 1;
+	b = 2;
+	c = a + b;
+	fun2();
+	printf(c);
+}
+void main()
+{
+    int x;
+	x = 5;
+	fun();
+	fun2();
+	printf(x);
+}

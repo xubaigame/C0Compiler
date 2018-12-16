@@ -1,0 +1,26 @@
+int n,m,t,x,y,z;
+void f()
+{
+	if(m)
+	{
+		t = n;
+		n = m;
+		m = t / n;
+		m = m * n;
+		m = t - m;
+		f();
+	}
+	else
+		x = n;
+}
+void main()
+{
+	scanf(n);
+	scanf(m);
+	y = n;
+	z = m;
+	f();
+	y = y * z / x;
+	printf(x);
+	printf(y);
+}
