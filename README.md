@@ -1,5 +1,5 @@
 # C0Compiler
-### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式vili_wzl@126.com
+### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：vili_wzl@126.com
 
 *2018年编译原理大作业,基于java语言和JavaCC工具的C0语言编译器*
 
