@@ -1,0 +1,20 @@
+int a,b;
+void factorial()
+{
+	if(a)
+	{
+		b=b*a;
+		a=a-1;
+		factorial();
+	}
+	else
+	{
+		printf(b);
+	}
+}
+void main()
+{
+	scanf(a);
+	b=1;
+	factorial();
+}
