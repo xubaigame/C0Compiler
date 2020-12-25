@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e526d1f-9f96-4594-a48d-bed22e48af90" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IF_TO</find>
+      <find>INT_TO</find>
+      <find>VOID_TO</find>
+      <find>ELSE_TO</find>
+      <find>MAIN_TO</find>
+      <find>WHILE_TO</find>
+      <find>SCANF_TO</find>
+      <find>PRINTF_TO</find>
+      <find>RETURN_TO</find>
+      <find>ID_TO</find>
+      <find>NUM_TO</find>
+      <find>LBRACE_TO</find>
+      <find>RBRACE_TO</find>
+      <find>LPAREN_TO</find>
+      <find>fencheng</find>
+      <find>Error</find>
+      <find>Sys</find>
+      <find>System.out</find>
+      <find>SEMICOLON_TOKEN</find>
+      <find>MiddleCodeItem</find>
+      <find>DefinitionFunction</find>
+      <find>arg1</find>
+      <find>System.err</find>
+      <find>JPC</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>IF_TOKEN</replace>
+      <replace>Factor</replace>
+      <replace>a</replace>
+      <replace>execute_word</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m9OwUbPzUG7WTTOE6UWP3xo84r" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570286408296" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VCDSellSystem/SuperVCD" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19767\Desktop\C0Compiler\src\Compiler" />
+      <recent name="C:\Users\19767\Desktop\C0Compiler" />
+      <recent name="C:\Users\19767\Desktop\C0Compiler\src\Execute" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Java\C0Compiler\testFile\ExectuedLists" />
+      <recent name="F:\Java\C0Compiler\testFile\Sources" />
+      <recent name="C:\Users\19767\Desktop\C0Compiler\src\Compiler_old" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Compiler">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compiler.Compiler" />
+      <module name="C0Compiler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Compiler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execute" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Execute.Main" />
+      <module name="C0Compiler" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Execute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Execute" />
+      <item itemvalue="Application.Compiler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Compiler" />
+        <item itemvalue="Application.Execute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e526d1f-9f96-4594-a48d-bed22e48af90" name="Default" comment="" />
+      <created>1544431320175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544431320175</updated>
+      <workItem from="1544431323894" duration="4626000" />
+      <workItem from="1544439169070" duration="3987000" />
+      <workItem from="1544443361422" duration="5484000" />
+      <workItem from="1544452107305" duration="3813000" />
+      <workItem from="1544456169018" duration="491000" />
+      <workItem from="1544502178346" duration="11000" />
+      <workItem from="1544521200379" duration="3857000" />
+      <workItem from="1544606489636" duration="883000" />
+      <workItem from="1544678091694" duration="17000" />
+      <workItem from="1544678260924" duration="9378000" />
+      <workItem from="1570281282236" duration="415000" />
+      <workItem from="1570282279184" duration="2252000" />
+      <workItem from="1570286349184" duration="61000" />
+      <workItem from="1570287398677" duration="8000" />
+      <workItem from="1608902581914" duration="14000" />
+      <workItem from="1608902678210" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
